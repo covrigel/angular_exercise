@@ -1,0 +1,22 @@
+[
+  {
+    "name"    : "Alexandra",
+    "title"   : "Jr Dev",
+    "company" : "Dreamjob"
+  },
+  {
+    "name"    : "Vladimir",
+    "title"   : "QA Lead",
+    "company" : "Awesomejob"
+  },
+  {
+    "name"    : "Ileana",
+    "title"   : "Pharmacist",
+    "company" : "Greatjob"
+  },
+  {
+    "name"    : "Grigore",
+    "title"   : "Restaurant Manager",
+    "company" : "Greatrest"
+  }
+]
