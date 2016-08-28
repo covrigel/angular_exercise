@@ -8,6 +8,12 @@
     <script src="js/controllers.js"></script>
   </head>
   <body>
-    
+  
+    <!-- we are linking to myController -->
+    <div ng-controller="MyController">
+      <h1>{{author.name}}</h1>
+      <p>{{author.title + ", " + author.company}}</p>
+    </div>
+
   </body>
 </html>
